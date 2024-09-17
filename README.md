@@ -12,7 +12,9 @@ The world today is the legacy of our ancestors' vision—they gave us phones, ai
 * 🧠  I'm learning Node JS, Mongo, Nest JS, Jest, Gitlab CI/CD
 * 🤝  I'm open to collaborating on AI (language processing, Image recognition) or IoT projects
 * ⚡  I like mountain biking, swimming, dogs and playing the guitar
+* 🗺️  I love languages, I learn: English, German, French.
 
+  
 ### Skills
 
 <p align="left">
