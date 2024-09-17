@@ -7,6 +7,7 @@ Full-Stack Developer
 The world today is the legacy of our ancestors' vision—they gave us phones, airplanes, and the internet. Let’s use these gifts to create an extraordinary future for those who come after us. I'm a passionate developer, not confined to back-end, front-end, data, or DevOps. I shape my knowledge to meet the world's needs, placing one rock each day. With time and thoughtful arrangement, these rocks will form a beautiful tower that transforms everything around it.
 
 * 🌍  I'm based in Bogota, Colombia
+* 🖥️  This is my profile [profile-page](https://miguel-montanez.netlify.app/)
 * 🚀  I'm currently working on [Publicis Global Delivery](http://www.publicisgroupe.com/en/splash-en)
 * 🧠  I'm learning Node JS, Mongo, Nest JS, Jest, Gitlab CI/CD
 * 🤝  I'm open to collaborating on AI (language processing, Image recognition) or IoT projects
