@@ -8,7 +8,7 @@ The world today is the legacy of our ancestors' vision—they gave us phones, ai
 
 * 🌍  I'm based in Bogota, Colombia
 * 🖥️  This is my profile [Profile Page](https://miguel-montanez.netlify.app/)
-* 🚀  I'm currently working on [Publicis Global Delivery](http://www.publicisgroupe.com/en/splash-en)
+* 🚀  I'm currently working on [EPAM](https://www.epam.com/)
 * 🧠  I'm learning Node JS, Mongo, Nest JS, Jest, Gitlab CI/CD
 * 🤝  I'm open to collaborating on AI (language processing, Image recognition) or IoT projects
 * ⚡  I like mountain biking, swimming, dogs and playing the guitar
