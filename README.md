@@ -27,16 +27,6 @@ The world we live in is shaped by the vision of our ancestors, they gifted us ph
 <a href="https://discord.com/users/miguelmontanez_17104" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/montanarco" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/miguel-montanez-gomez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 <a href="https://discord.com/users/miguelmontanez_17104" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="32" height="32" /> </picture> </a>
 </p>
-### Badges
-
-
-### Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/miguel-montanez-gomez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-montanez-gomez" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/montanarco_17104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="montanarco_17104" height="30" width="40" /></a>
-
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montanarco&" alt="montanarco" /></p>
 
